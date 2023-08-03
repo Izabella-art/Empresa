@@ -1,0 +1,15 @@
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\bin\Debug\EmpresaTI17T.exe.config
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\bin\Debug\EmpresaTI17T.exe
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\bin\Debug\EmpresaTI17T.pdb
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.AssemblyReference.cache
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.SuggestedBindingRedirects.cache
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Atualizar.resources
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Cadastrar.resources
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Consultar.resources
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Excluir.resources
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Form1.resources
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Properties.Resources.resources
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.GenerateResource.cache
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.CoreCompileInputs.cache
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.exe
+C:\Users\izabella.fbarros\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.pdb
