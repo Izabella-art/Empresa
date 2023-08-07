@@ -47,7 +47,7 @@
             // maskedTextBox1
             // 
             this.maskedTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.maskedTextBox1.Location = new System.Drawing.Point(116, 87);
+            this.maskedTextBox1.Location = new System.Drawing.Point(113, 93);
             this.maskedTextBox1.Mask = "999.999.999-99";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(129, 23);
@@ -56,9 +56,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
             this.label1.Location = new System.Drawing.Point(55, 93);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(30, 13);
+            this.label1.Size = new System.Drawing.Size(52, 24);
             this.label1.TabIndex = 5;
             this.label1.Text = "CPF:";
             // 

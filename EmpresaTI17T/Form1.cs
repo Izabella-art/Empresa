@@ -16,15 +16,19 @@ namespace EmpresaTI17T
         Consultar con;
         Atualizar atu;
         Excluir exc;
+        DAO consul;
+
         public Form1()
         {
             InitializeComponent();
             cad = new Cadastrar();
-            con= new Consultar();
+            con = new Consultar();
             atu = new Atualizar();
-            exc= new Excluir();
-        }
+            exc = new Excluir();
+            consul = new DAO();
 
+        }//fim do construtor
+        //houl de entrada DAO = conectar;conectar =new DAO();//ligando o formulario ao conetor do banco
         private void button1_Click(object sender, EventArgs e)
         {
             cad.ShowDialog();//abre a tela
@@ -32,7 +36,7 @@ namespace EmpresaTI17T
 
         private void button2_Click(object sender, EventArgs e)
         {
-            cad.ShowDialog();
+            cad.ShowDialog();//abre a tela
         }//fim do consultar
 
         private void button3_Click(object sender, EventArgs e)
@@ -44,5 +48,7 @@ namespace EmpresaTI17T
         {
             cad.ShowDialog();
         }//fim do excluir
+
+
     }
-}
+}//fim do projeto
